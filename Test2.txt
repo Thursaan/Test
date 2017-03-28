@@ -1,6 +1,6 @@
-Thursaan
-Yogeswaran
-18
-Essen
-Schwarz
-kool
+Name: Thursaan
+Vorname: Yogeswaran
+Alter: 18
+Geburtsort: Essen
+LFarbe: Schwarz
+LEssen: kool
